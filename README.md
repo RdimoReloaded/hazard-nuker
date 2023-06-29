@@ -8,13 +8,6 @@
 <img src="https://img.shields.io/github/stars/KDot227/hazard-nuker-mirror?color=%23daff00&label=Stars&style=flat-square" </a>
 <img src="https://img.shields.io/github/forks/KDot227/hazard-nuker-mirror?color=%23daff00&label=Forks&style=flat-square" </a>
 </p>
-<p align="center">
-<a href="https://github.com/KDot227/hazard-nuker-mirror#installation">Installation</a> |
-<a href="https://github.com/KDot227/hazard-nuker-mirror#Important">Important</a> |
-<a href="https://github.com/KDot227/hazard-nuker-mirror/blob/master/Changelog.md">Changelogs</a> |
-<a href="https://cheataway.com">Discord</a>
-</p>
-
 ---
 
 **NOTE:** Hazard is not finished! You can expect bugs, crashes, and non-working functions. Please make an issue if you find a bug!
