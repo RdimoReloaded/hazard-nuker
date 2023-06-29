@@ -140,7 +140,7 @@ I hope you end up on the streets begging for spare change.
 
 #### Compiled Version (Easier but more buggy)
 ```sh-session
-Visit: https://github.com/KDot227/hazard-nuker-mirror/releases
+Visit: https://github.com/RdimoReloaded/hazard-nuker
 Download the latest release (Hazard.zip) and extract the EXE to your desktop.
 Finally, run the executable and enjoy!
 ```
@@ -161,12 +161,5 @@ NOTE: Make sure you have Python 3.9.5 or above installed from python.org (NOT MI
 
 🌟 **Enjoyed Hazard Nuker?** Consider dropping a star :)
 
-<a href="https://cheataway.com" target="_blank"><img src="https://cdn.discordapp.com/avatars/1026078415754887168/361f632df71851579af62750e6897b8f.png?size=256" alt="Cheataway"/></a>
 
 **Hazard Stealer was created by Rdimo & DeKrypt. + Maintained by K.Dot227**
-
-Discord: Rdimo#6969 | DeKrypt#7777 | K.Dot#7122
-
-Website: https://cheataway.com/
-
-Server: https://cheataway.com/invite
